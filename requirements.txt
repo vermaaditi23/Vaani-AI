@@ -1,0 +1,6 @@
+﻿fastapi==0.141.1
+uvicorn==0.54.0
+transformers==5.17.0
+torch==2.14.0
+sentencepiece==0.2.2
+langdetect==1.0.9
